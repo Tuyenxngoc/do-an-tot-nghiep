@@ -1,0 +1,6 @@
+[submodule "chuong-trinh/tile-shop-server"]
+	path = chuong-trinh/tile-shop-server
+	url = https://github.com/Tuyenxngoc/tile-shop-server.git
+[submodule "chuong-trinh/tile-shop-ui"]
+	path = chuong-trinh/tile-shop-ui
+	url = https://github.com/Tuyenxngoc/tile-shop-ui.git
